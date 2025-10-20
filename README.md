@@ -1,2 +1,3 @@
+Single Perceptron
 This is my first project on GitHub, developed as part of my learning journey in Artificial Intelligence. The project demonstrates the use of the Perceptron algorithm, a simple yet powerful machine learning model widely used for binary classification tasks. The primary goal of this project is to predict placement outcomes of students based on their academic scores in two subjects.
 The project uses a placement dataset, which contains information about students’ scores in two subjects, and the target variable indicates whether the student was placed or not. The core objective is to develop a machine learning model that can predict a student's placement status (i.e., placed or not) based on their academic performance.
